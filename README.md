@@ -1,10 +1,10 @@
 # whisper_pj
 
-## Code Example
+## Code Example:
 ```
 $ python main.py -p your_prefix -m large-v2 -u
 ```
-出力ファイルは../output/transcriptions/モデル名/ディレクトリに保存される。
+The output files are saved in the ../output/transcriptions/model_name/ directory.
 
 ## Argument details:
 
