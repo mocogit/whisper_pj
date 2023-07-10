@@ -364,3 +364,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 *.pkl
+.idea
