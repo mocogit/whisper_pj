@@ -364,10 +364,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 *.pkl
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
-/.idea/whisper_pj.iml
+.idea
